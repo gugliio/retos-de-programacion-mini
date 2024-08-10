@@ -11,3 +11,23 @@
 [# 03 - PAR O IMPAR](https://github.com/gugliio/retos-de-programacion-mini/commit/58a2c8f630a1713d1f363708c9e908c86e197a75)
 
 [# 04 - CONTADOR DE VOCALES](https://github.com/gugliio/retos-de-programacion-mini/commit/a8536ea1cd9300ec90a580bbb285f157362c928c)
+
+
+## Pending challenges
+|04|[ÍNDICE DE MASA CORPORAL](./Mini/04_imc.py)|[▶️](https://www.youtube.com/shorts/-rU57syW5zQ)|[▶️](https://www.instagram.com/p/C8cXWW8tWNr/)|[▶️](https://www.tiktok.com/@mouredev/video/7382614366690020640)
+
+|05|[CONVERSOR DE TEMPERATURAS](./Mini/05_celsius_fahrenheit.py)|[▶️](https://www.youtube.com/shorts/pgadIlcVVlc)|[▶️](https://www.instagram.com/p/C8r7fBltFnZ/)|[▶️](https://www.tiktok.com/@mouredev/video/7384857372730182944)
+
+|06|[ANAGRAMAS](./Mini/06_anagram.py)|[▶️](https://www.youtube.com/shorts/fCpBzZFKCow)|[▶️](https://www.instagram.com/p/C8w_nRnNIsF/)|[▶️](https://www.tiktok.com/@mouredev/video/7385587399201459489)
+
+|07|[TABLAS DE MULTIPLICAR](./Mini/07_multiplication_tables.py)|[▶️](https://youtube.com/shorts/YZZlha89jWg)|[▶️](https://www.instagram.com/p/C892QQhtwLB/)|[▶️](https://www.tiktok.com/@mouredev/video/7387439621505912097)
+
+|08|[INVERSIÓN DE CADENAS](./Mini/08_reverse_string.py)|[▶️](https://youtube.com/shorts/RlqnMhZ8HqU)|[▶️](https://www.instagram.com/reel/C9NXAuitG_9/)|[▶️](https://www.tiktok.com/@mouredev/video/7389677839332805920)
+
+|09|[CÁLCULO DE UN FACTORIAL](./Mini/09_factorial.py)|[▶️](https://youtube.com/shorts/Wi7jnXb7iNk)|[▶️](https://www.instagram.com/mouredev/reel/C9m04X6t4EW/)|[▶️](https://www.tiktok.com/@mouredev/video/7393372720324431136)
+
+|10|[LISTA POKÉMON](./Mini/10_pokemon_list.py)|[▶️](https://youtube.com/shorts/2nM2-M4urb0)|[▶️](https://www.instagram.com/reel/C95Cle5NH1D/)|[▶️](https://www.tiktok.com/@mouredev/video/7395970238950509857)
+
+|11|[MEDIA](./Mini/11_mean.py)|[▶️](https://youtube.com/shorts/UUSlIQiNGGw)|[▶️](https://www.instagram.com/p/C-LE_rzNnjc)|[▶️](https://www.tiktok.com/@mouredev/video/7398569872516582689)
+
+|12|[VIRAL 12345678](./Mini/12_12345678_trend.py)||[▶️](https://www.instagram.com/p/C-dFSgYtfqU)|[▶️](https://www.tiktok.com/@mouredev/video/7401165115334184224)
