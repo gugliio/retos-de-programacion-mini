@@ -10,15 +10,15 @@ import (
 )
 
 func main() {
-	fmt.Println("Reto 0 - Fizzbuzz")
+	fmt.Println("Reto 1 - Fizzbuzz")
 	fizzbuzz.Execute()
 
-	fmt.Println("Reto 1 - Decimal to Binary")
+	fmt.Println("Reto 2 - Decimal to Binary")
 	decimaltobinary.Execute(1)
 
-	fmt.Println("Reto 2 - Even Odd")
+	fmt.Println("Reto 3 - Even Odd")
 	fmt.Println(evenodd.Execute(5))
 
-	fmt.Println("Reto 3 - Vowel Counter")
+	fmt.Println("Reto 4 - Vowel Counter")
 	fmt.Println(vowelcounter.Execute("Hola Mundo!"))
 }

@@ -8,7 +8,9 @@ Crea un programa que cuente cuantas
 vocales tiene una cadena de texto.
 */
 
-func Execute(input string) int {
+// First implementation
+
+/* func Execute(input string) int {
 	var vocals = []string{"a", "e", "i", "o", "u"}
 	counter := 0
 
@@ -18,6 +20,22 @@ func Execute(input string) int {
 				counter++
 				break
 			}
+		}
+	}
+
+	return counter
+} */
+
+// Second implementation
+
+func Execute(input string) int {
+	var vocals = "aeiou"
+	counter := 0
+
+	for _, char := range input {
+		charToLower := strings.ToLower(string(char))
+		if strings.Contains(vocals, charToLower) {
+			counter++
 		}
 	}
 
