@@ -12,10 +12,10 @@
 
 [# 04 - CONTADOR DE VOCALES](https://github.com/gugliio/retos-de-programacion-mini/commit/a8536ea1cd9300ec90a580bbb285f157362c928c)
 
+[# 05 - ÍNDICE DE MASA CORPORAL](https://github.com/gugliio/retos-de-programacion-mini/pull/1)
+
 
 ## Pending challenges
-|04|[ÍNDICE DE MASA CORPORAL](./Mini/04_imc.py)|[▶️](https://www.youtube.com/shorts/-rU57syW5zQ)|[▶️](https://www.instagram.com/p/C8cXWW8tWNr/)|[▶️](https://www.tiktok.com/@mouredev/video/7382614366690020640)
-
 |05|[CONVERSOR DE TEMPERATURAS](./Mini/05_celsius_fahrenheit.py)|[▶️](https://www.youtube.com/shorts/pgadIlcVVlc)|[▶️](https://www.instagram.com/p/C8r7fBltFnZ/)|[▶️](https://www.tiktok.com/@mouredev/video/7384857372730182944)
 
 |06|[ANAGRAMAS](./Mini/06_anagram.py)|[▶️](https://www.youtube.com/shorts/fCpBzZFKCow)|[▶️](https://www.instagram.com/p/C8w_nRnNIsF/)|[▶️](https://www.tiktok.com/@mouredev/video/7385587399201459489)
