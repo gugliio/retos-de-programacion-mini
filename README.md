@@ -14,9 +14,10 @@
 
 [# 05 - ÍNDICE DE MASA CORPORAL](https://github.com/gugliio/retos-de-programacion-mini/pull/1)
 
+[# 06 - CONVERSOR DE TEMPERATURAS](https://github.com/gugliio/retos-de-programacion-mini/pull/2)
+
 
 ## Pending challenges
-|05|[CONVERSOR DE TEMPERATURAS](./Mini/05_celsius_fahrenheit.py)|[▶️](https://www.youtube.com/shorts/pgadIlcVVlc)|[▶️](https://www.instagram.com/p/C8r7fBltFnZ/)|[▶️](https://www.tiktok.com/@mouredev/video/7384857372730182944)
 
 |06|[ANAGRAMAS](./Mini/06_anagram.py)|[▶️](https://www.youtube.com/shorts/fCpBzZFKCow)|[▶️](https://www.instagram.com/p/C8w_nRnNIsF/)|[▶️](https://www.tiktok.com/@mouredev/video/7385587399201459489)
 
