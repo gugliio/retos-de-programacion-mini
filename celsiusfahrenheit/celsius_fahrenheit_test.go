@@ -7,7 +7,7 @@ import (
 	"github.com/stretchr/testify/assert"
 )
 
-func Test_Farenheit_Celius(t *testing.T) {
+func Test_Fahrenheit_Celius(t *testing.T) {
 	testTable := []struct {
 		name     string
 		temp     float64
@@ -21,13 +21,13 @@ func Test_Farenheit_Celius(t *testing.T) {
 			expected: 0,
 		},
 		{
-			name:     "sending 40 farenheit return 4.4 celsius",
+			name:     "sending 40 fahrenheit return 4.4 celsius",
 			temp:     77,
 			tempType: "fahrenheit",
 			expected: 25,
 		},
 		{
-			name:     "sending 40 celsius return 104 farenheit",
+			name:     "sending 40 celsius return 104 fahrenheit",
 			temp:     40,
 			tempType: "celsius",
 			expected: 104,
