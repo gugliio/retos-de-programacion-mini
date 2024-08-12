@@ -16,10 +16,9 @@
 
 [# 06 - CONVERSOR DE TEMPERATURAS](https://github.com/gugliio/retos-de-programacion-mini/pull/2)
 
+[# 07 - ANAGRAMAS](https://github.com/gugliio/retos-de-programacion-mini/pull/3)
 
 ## Pending challenges
-
-|06|[ANAGRAMAS](./Mini/06_anagram.py)|[▶️](https://www.youtube.com/shorts/fCpBzZFKCow)|[▶️](https://www.instagram.com/p/C8w_nRnNIsF/)|[▶️](https://www.tiktok.com/@mouredev/video/7385587399201459489)
 
 |07|[TABLAS DE MULTIPLICAR](./Mini/07_multiplication_tables.py)|[▶️](https://youtube.com/shorts/YZZlha89jWg)|[▶️](https://www.instagram.com/p/C892QQhtwLB/)|[▶️](https://www.tiktok.com/@mouredev/video/7387439621505912097)
 
