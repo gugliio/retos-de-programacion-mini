@@ -9,6 +9,7 @@ import (
 	"github.com/gugliio/retos-de-programacion-mini/evenodd"
 	"github.com/gugliio/retos-de-programacion-mini/fizzbuzz"
 	"github.com/gugliio/retos-de-programacion-mini/imc"
+	"github.com/gugliio/retos-de-programacion-mini/revertstring"
 	"github.com/gugliio/retos-de-programacion-mini/tablasmultiplicar"
 	"github.com/gugliio/retos-de-programacion-mini/vowelcounter"
 )
@@ -37,4 +38,7 @@ func main() {
 
 	fmt.Println("Reto 8 - Tablas Multiplicar")
 	tablasmultiplicar.Execute()
+
+	fmt.Println("\nReto 9 - Revert string")
+	fmt.Println(revertstring.Execute("Ortega"))
 }
