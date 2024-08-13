@@ -20,9 +20,9 @@
 
 [# 08 - TABLAS DE MULTIPLICAR](https://github.com/gugliio/retos-de-programacion-mini/pull/4)
 
-## Pending challenges
+[# 09 - INVERSIÓN DE CADENAS](https://github.com/gugliio/retos-de-programacion-mini/pull/5)
 
-|08|[INVERSIÓN DE CADENAS](./Mini/08_reverse_string.py)|[▶️](https://youtube.com/shorts/RlqnMhZ8HqU)|[▶️](https://www.instagram.com/reel/C9NXAuitG_9/)|[▶️](https://www.tiktok.com/@mouredev/video/7389677839332805920)
+## Pending challenges
 
 |09|[CÁLCULO DE UN FACTORIAL](./Mini/09_factorial.py)|[▶️](https://youtube.com/shorts/Wi7jnXb7iNk)|[▶️](https://www.instagram.com/mouredev/reel/C9m04X6t4EW/)|[▶️](https://www.tiktok.com/@mouredev/video/7393372720324431136)
 
