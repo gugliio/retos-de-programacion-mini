@@ -22,9 +22,9 @@
 
 [# 09 - INVERSIÓN DE CADENAS](https://github.com/gugliio/retos-de-programacion-mini/pull/5)
 
-## Pending challenges
+[# 10 - CÁLCULO DE UN FACTORIAL](https://github.com/gugliio/retos-de-programacion-mini/pull/6)
 
-|09|[CÁLCULO DE UN FACTORIAL](./Mini/09_factorial.py)|[▶️](https://youtube.com/shorts/Wi7jnXb7iNk)|[▶️](https://www.instagram.com/mouredev/reel/C9m04X6t4EW/)|[▶️](https://www.tiktok.com/@mouredev/video/7393372720324431136)
+## Pending challenges
 
 |10|[LISTA POKÉMON](./Mini/10_pokemon_list.py)|[▶️](https://youtube.com/shorts/2nM2-M4urb0)|[▶️](https://www.instagram.com/reel/C95Cle5NH1D/)|[▶️](https://www.tiktok.com/@mouredev/video/7395970238950509857)
 

@@ -7,6 +7,7 @@ import (
 	"github.com/gugliio/retos-de-programacion-mini/celsiusfahrenheit"
 	"github.com/gugliio/retos-de-programacion-mini/decimaltobinary"
 	"github.com/gugliio/retos-de-programacion-mini/evenodd"
+	"github.com/gugliio/retos-de-programacion-mini/factorial"
 	"github.com/gugliio/retos-de-programacion-mini/fizzbuzz"
 	"github.com/gugliio/retos-de-programacion-mini/imc"
 	"github.com/gugliio/retos-de-programacion-mini/revertstring"
@@ -41,4 +42,7 @@ func main() {
 
 	fmt.Println("\nReto 9 - Revert string")
 	fmt.Println(revertstring.Execute("Ortega"))
+
+	fmt.Println("\nReto 10 - Factorial")
+	fmt.Println(factorial.Execute(2))
 }
