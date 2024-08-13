@@ -10,6 +10,7 @@ import (
 	"github.com/gugliio/retos-de-programacion-mini/factorial"
 	"github.com/gugliio/retos-de-programacion-mini/fizzbuzz"
 	"github.com/gugliio/retos-de-programacion-mini/imc"
+	"github.com/gugliio/retos-de-programacion-mini/pokemon"
 	"github.com/gugliio/retos-de-programacion-mini/revertstring"
 	"github.com/gugliio/retos-de-programacion-mini/tablasmultiplicar"
 	"github.com/gugliio/retos-de-programacion-mini/vowelcounter"
@@ -43,6 +44,9 @@ func main() {
 	fmt.Println("\nReto 9 - Revert string")
 	fmt.Println(revertstring.Execute("Ortega"))
 
-	fmt.Println("\nReto 10 - Factorial")
+	fmt.Println("Reto 10 - Factorial")
 	fmt.Println(factorial.Execute(2))
+
+	fmt.Println("Reto 11 - List Pokemon")
+	pokemon.Execute()
 }

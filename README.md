@@ -24,9 +24,9 @@
 
 [# 10 - CÁLCULO DE UN FACTORIAL](https://github.com/gugliio/retos-de-programacion-mini/pull/6)
 
-## Pending challenges
+[# 11 - LISTA POKÉMON](https://github.com/gugliio/retos-de-programacion-mini/pull/7)
 
-|10|[LISTA POKÉMON](./Mini/10_pokemon_list.py)|[▶️](https://youtube.com/shorts/2nM2-M4urb0)|[▶️](https://www.instagram.com/reel/C95Cle5NH1D/)|[▶️](https://www.tiktok.com/@mouredev/video/7395970238950509857)
+## Pending challenges
 
 |11|[MEDIA](./Mini/11_mean.py)|[▶️](https://youtube.com/shorts/UUSlIQiNGGw)|[▶️](https://www.instagram.com/p/C-LE_rzNnjc)|[▶️](https://www.tiktok.com/@mouredev/video/7398569872516582689)
 
