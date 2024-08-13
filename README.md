@@ -18,9 +18,9 @@
 
 [# 07 - ANAGRAMAS](https://github.com/gugliio/retos-de-programacion-mini/pull/3)
 
-## Pending challenges
+[# 08 - TABLAS DE MULTIPLICAR](https://github.com/gugliio/retos-de-programacion-mini/pull/4)
 
-|07|[TABLAS DE MULTIPLICAR](./Mini/07_multiplication_tables.py)|[▶️](https://youtube.com/shorts/YZZlha89jWg)|[▶️](https://www.instagram.com/p/C892QQhtwLB/)|[▶️](https://www.tiktok.com/@mouredev/video/7387439621505912097)
+## Pending challenges
 
 |08|[INVERSIÓN DE CADENAS](./Mini/08_reverse_string.py)|[▶️](https://youtube.com/shorts/RlqnMhZ8HqU)|[▶️](https://www.instagram.com/reel/C9NXAuitG_9/)|[▶️](https://www.tiktok.com/@mouredev/video/7389677839332805920)
 
