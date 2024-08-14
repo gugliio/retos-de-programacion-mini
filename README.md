@@ -26,8 +26,8 @@
 
 [# 11 - LISTA POKÉMON](https://github.com/gugliio/retos-de-programacion-mini/pull/7)
 
-## Pending challenges
+[# 12 - MEDIA](https://github.com/gugliio/retos-de-programacion-mini/pull/8)
 
-|11|[MEDIA](./Mini/11_mean.py)|[▶️](https://youtube.com/shorts/UUSlIQiNGGw)|[▶️](https://www.instagram.com/p/C-LE_rzNnjc)|[▶️](https://www.tiktok.com/@mouredev/video/7398569872516582689)
+## Pending challenges
 
 |12|[VIRAL 12345678](./Mini/12_12345678_trend.py)||[▶️](https://www.instagram.com/p/C-dFSgYtfqU)|[▶️](https://www.tiktok.com/@mouredev/video/7401165115334184224)
