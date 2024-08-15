@@ -16,26 +16,22 @@ ascendente y descendente.
 
 func Execute() {
 	for i := 0; i <= 7; i++ {
-		var viral string
-		for j := 1; j <= 8; j++ {
-			if j <= i {
-				viral += " "
-			} else {
-				viral += fmt.Sprintf("%d", j)
-			}
-		}
-		fmt.Println(viral)
+		madePrint(i)
 	}
 
 	for i := 6; i >= 0; i-- {
-		var viral string
-		for j := 1; j <= 8; j++ {
-			if j <= i {
-				viral = viral + " "
-			} else {
-				viral += fmt.Sprintf("%d", j)
-			}
-		}
-		fmt.Println(viral)
+		madePrint(i)
 	}
+}
+
+func madePrint(index int) {
+	var viral string
+	for j := 1; j <= 8; j++ {
+		if j <= index {
+			viral = viral + " "
+		} else {
+			viral += fmt.Sprintf("%d", j)
+		}
+	}
+	fmt.Println(viral)
 }
