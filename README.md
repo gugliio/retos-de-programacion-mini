@@ -28,6 +28,6 @@
 
 [# 12 - MEDIA](https://github.com/gugliio/retos-de-programacion-mini/pull/8)
 
-## Pending challenges
+[# 13 - VIRAL 12345678](https://github.com/gugliio/retos-de-programacion-mini/pull/9)
 
-|12|[VIRAL 12345678](./Mini/12_12345678_trend.py)||[▶️](https://www.instagram.com/p/C-dFSgYtfqU)|[▶️](https://www.tiktok.com/@mouredev/video/7401165115334184224)
+## No Pending challenges
