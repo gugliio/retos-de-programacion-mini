@@ -10,9 +10,11 @@ import (
 	"github.com/gugliio/retos-de-programacion-mini/factorial"
 	"github.com/gugliio/retos-de-programacion-mini/fizzbuzz"
 	"github.com/gugliio/retos-de-programacion-mini/imc"
+	"github.com/gugliio/retos-de-programacion-mini/media"
 	"github.com/gugliio/retos-de-programacion-mini/pokemon"
 	"github.com/gugliio/retos-de-programacion-mini/revertstring"
 	"github.com/gugliio/retos-de-programacion-mini/tablasmultiplicar"
+	"github.com/gugliio/retos-de-programacion-mini/viral"
 	"github.com/gugliio/retos-de-programacion-mini/vowelcounter"
 )
 
@@ -49,4 +51,10 @@ func main() {
 
 	fmt.Println("Reto 11 - List Pokemon")
 	pokemon.Execute()
+
+	fmt.Println("Reto 12 - Media")
+	fmt.Println(media.Execute([]int{3, 4, 5}))
+
+	fmt.Println("Reto 13 - viral")
+	viral.Execute()
 }
